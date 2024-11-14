@@ -49,7 +49,7 @@ def get_page(item):
               <a class="tweet-avatar" href="/"><img class="avatar round" src="../../../profile.jpg" alt=""></a>
               <div class="tweet-name-row">
                 <div class="fullname-and-username">
-                  <a class="fullname" href="/" title="🔎Dr. Mowinckel's🔍">🔎Dr. Mowinckel's🔍</a>
+                  <a class="fullname" href="/" title="Dr. Mowinckel's">Dr. Mowinckel's</a>
                   <a class="username" href="/" title="@drmowinckels">@drmowinckels</a>
                 </div>
                 <span class="tweet-date"><a href="{url(item)}" title="{date}">{date}</a></span>
